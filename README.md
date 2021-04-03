@@ -3,13 +3,13 @@
 
 # Changing-Colors
 - To change the color of the line you're drawing, press the respective key of the color.
-- Red: r
-- Orange: o
-- Yellow: y
-- Green: g
-- Blue: b
-- Purple: p
-- Black: k
+- Red: 1
+- Orange: 2
+- Yellow: 3
+- Green: 4
+- Blue: 5
+- Purple: 6
+- Black: 7
 
 # New-Canvas
 - To erase your current canvas, navigate to the file button in the menu bar and select "new canvas".
