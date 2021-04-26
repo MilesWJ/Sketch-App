@@ -1,5 +1,5 @@
 # Sketch-App
-- A simple sketch app that allows you to draw.
+- A simple sketch app, similar to MS Paint, that allows you to draw.
 
 # Changing-Colors
 - To change the color of the line you're drawing, press the respective key of the color.
